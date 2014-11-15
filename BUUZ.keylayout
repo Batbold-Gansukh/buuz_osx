@@ -1,7 +1,7 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-11-15 at 21:58 (GMT+8)-->
-<!--Last edited by Ukelele version 2.2.8 on 2014-11-16 at 00:08 (GMT+8)-->
+<!--Last edited by Ukelele version 2.2.8 on 2014-11-16 at 00:40 (GMT+8)-->
 <keyboard group="126" id="-267" name="BUUZ" maxout="2">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
@@ -1456,7 +1456,7 @@
         </action>
         <action id="И">
             <when state="none" next="HagasTom"/>
-            <when state="HagasTom" output="ИЙ"/>
+            <when state="HagasTom" output="Ий"/>
             <when state="ZuulniiTemdegTom" output="Й"/>
             <when state="Ай" output="Ай"/>
             <when state="Ой" output="Ой"/>
